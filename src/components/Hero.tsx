@@ -14,6 +14,7 @@ export function Hero() {
           <h1 className="text-3xl md:text-5xl font-bold mb-4 text-white">
             Добро пожаловать в <span className="text-[#9b87f5]">Dota Школу</span>
           </h1>
+          <h2 className="text-xl md:text-2xl font-medium text-[#9b87f5] mb-2">Проект Михайлова Владимира</h2>
           <p className="text-lg text-gray-300 mb-8">
             Образовательный проект, где школьники могут изучать Dota 2, участвовать в турнирах 
             и развивать навыки стратегического мышления в безопасной среде
